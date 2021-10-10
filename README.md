@@ -1,0 +1,1 @@
+Practice project to create a recipe website per Odin Project guidelines.
