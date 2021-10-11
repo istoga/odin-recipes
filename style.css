@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #faebd7;
+}
+
+h1 {
+    text-align: center;
+    font-size: 75px;
+    color: brown;
+    font-family: Helvetica, sans-serif;
+}
+
+.lasagna-page {
+    font-size: 50px;
+    color: brown;
+}
+
+.lemonade-page {
+    font-size: 50px;
+    color: brown;
+}
+
+.strawberry-page {
+    font-size: 50px;
+    color: brown;
+}
+
+img {
+    height:150px;
+    width: 150px;
+}
